@@ -10,7 +10,7 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 tod.packages.urllib3.disable_warnings(InsecureRequestWarning)
 print("""
 ##################################
-#      Laravel Mass Exploit      #
+#      Laravel Mass Exploitt      #
 #      Author: Con7ext           #
 #      Exploit-Kita              #
 ##################################
